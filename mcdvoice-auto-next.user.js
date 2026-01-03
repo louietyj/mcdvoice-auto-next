@@ -5,6 +5,7 @@
 // @description  Automatically clicks the Next button on McDVoice survey pages
 // @author       louietyj
 // @match        https://www.mcdvoice.com/Survey.aspx*
+// @match        https://mcdvoice.com/Survey.aspx*
 // @grant        none
 // @run-at       document-idle
 // @downloadURL  https://raw.githubusercontent.com/louietyj/mcdvoice-auto-next/main/mcdvoice-auto-next.user.js
